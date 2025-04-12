@@ -1,0 +1,8 @@
+streamlit
+pandas
+scikit-learn
+joblib
+transformers
+sentence-transformers
+PyMuPDF
+pinecone-client
