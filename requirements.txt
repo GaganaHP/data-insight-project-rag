@@ -6,4 +6,4 @@ joblib
 transformers
 sentence-transformers
 PyMuPDF
-pinecone-client
+pinecone
